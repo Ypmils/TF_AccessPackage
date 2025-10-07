@@ -16,3 +16,16 @@ PIM-ROLE gruppen ligger som pemament eligable member i ROLE- gruppen
 
 Fungerar access review på grupper som ligger i RMAU?
 Kan access package lägga med medlemmar i PIM-ROLE som ligger i en RMAU?
+
+
+azuread_group_role_management_policy
+azuread_privileged_access_group_assignment_schedule
+azuread_privileged_access_group_eligibility_schedule
+
+
+
+Skapa ROLE-Grupp
+Skapa PIM Policy för grupp
+Skapa PIM-ROLE-Grupp
+Lägg med som pernament eligable member i ROLE-grupp
+
